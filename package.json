@@ -1,10 +1,10 @@
 {
-  "name": "liferay-forums",
+  "name": "liferay-connector-examples",
   "version": "0.0.0",
-  "description": "",
+  "description": "Proofs of Concept of the capabilities of Liferay Connector",
   "main": "index.es6",
   "scripts": {
-    "start": "6to5-node index.es6"
+    "forums": "6to5-node index.es6"
   },
   "author": "",
   "license": "ISC",
