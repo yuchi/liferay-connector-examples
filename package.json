@@ -1,0 +1,17 @@
+{
+  "name": "liferay-forums",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.es6",
+  "scripts": {
+    "start": "6to5-node index.es6"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "liferay-connector": "~0.6.3",
+    "prompt": "~0.2.14",
+    "optimist": "~0.6.1",
+    "6to5": "~1.12.20"
+  }
+}
